@@ -1,3 +1,8 @@
+---
+title: Governance Model (Small Teams)
+sidebar_label: For Small Teams
+---
+
 ````markdown
 # [INSERT PROJECT NAME] Project Governance
 

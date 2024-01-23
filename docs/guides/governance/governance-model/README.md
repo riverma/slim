@@ -22,17 +22,17 @@
 
 ## Quick Start
 
-**[⬇️ Governance Model Template (Small Teams)](GOVERNANCE-TEMPLATE-SMALL-TEAMS.md)**
+**[⬇️ Governance Model Template (Large Teams)](GOVERNANCE-TEMPLATE-LARGE-TEAMS.md)**
 
-Our recommended governance model for small teams of 1-3 active members.
+Our recommended governance model for small teams of 10+ active members.
 
 **[⬇️ Governance Model Template (Medium Teams)](GOVERNANCE-TEMPLATE-MEDIUM-TEAMS.md)**
 
 Our recommended governance model for small teams of 3-10 active members.
 
-**[⬇️ Governance Model Template (Large Teams)](GOVERNANCE-TEMPLATE-LARGE-TEAMS.md)**
+**[⬇️ Governance Model Template (Small Teams)](GOVERNANCE-TEMPLATE-SMALL-TEAMS.md)**
 
-Our recommended governance model for small teams of 10+ active members.
+Our recommended governance model for small teams of 1-3 active members.
 
 ---
 

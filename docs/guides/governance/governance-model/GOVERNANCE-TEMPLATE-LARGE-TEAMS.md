@@ -1,3 +1,8 @@
+---
+title: Governance Model (Large Teams)
+sidebar_label: For Large Teams
+---
+
 ````markdown
 # [INSERT PROJECT NAME] Project Governance
 
