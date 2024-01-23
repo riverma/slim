@@ -1,3 +1,8 @@
+---
+title: Governance Model (Medium Teams)
+sidebar_label: For Medium Teams
+---
+
 ````markdown
 # [INSERT PROJECT NAME] Project Governance
 
