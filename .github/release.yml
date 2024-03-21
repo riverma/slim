@@ -18,6 +18,14 @@ changelog:
     - title: 📦 Dependencies
       labels:
         - dependencies
+    - title: 🏛 Governance
+      labels:
+        - governance
+    - title: 🔄 Software Lifecycle
+      labels:
+        - software-lifecycle
+    - title: 💬 Information Sharing
+        - information-sharing
     - title: 💻 Other Changes
       labels:
         - "*"
@@ -27,3 +35,6 @@ changelog:
           - bug
           - documentation
           - dependencies
+          - governance
+          - software-lifecycle
+          - information-sharing
