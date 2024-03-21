@@ -26,6 +26,8 @@ changelog:
         - software-lifecycle
     - title: 💬 Information Sharing
         - information-sharing
+    - title: 🌐 Website
+        - website
     - title: 💻 Other Changes
       labels:
         - "*"
@@ -38,3 +40,4 @@ changelog:
           - governance
           - software-lifecycle
           - information-sharing
+          - website
