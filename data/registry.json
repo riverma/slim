@@ -12,7 +12,7 @@
         "project-setup"
       ],
       "lastUpdated": "2024-08-02",
-      "skill_file_url": "/slim/marketplace/static/marketplace/skills/slim-changelog/SKILL.md",
+      "skill_file_url": "/slim/marketplace/skills/slim-changelog/SKILL.md",
       "type": "skill",
       "example": "Create a CHANGELOG.md"
     },
